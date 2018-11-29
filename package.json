@@ -1,0 +1,26 @@
+{
+  "name": "la-js",
+  "version": "1.0.0",
+  "description": "词法分析器 Lexical analyzer",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wingsico/LexAnalyzer.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "wingsico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wingsico/LexAnalyzer/issues"
+  },
+  "homepage": "https://github.com/wingsico/LexAnalyzer#readme"
+}
